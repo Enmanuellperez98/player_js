@@ -1,0 +1,19 @@
+{
+  "name": "player_js",
+  "version": "1.0.0",
+  "description": "Reproductor basado en nodejs - angular != js - mondodb del Curso aprendiendo nodej, angular y mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enmanuellperez98/player_js.git"
+  },
+  "author": "Raúl E. Luna Pérez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enmanuellperez98/player_js/issues"
+  },
+  "homepage": "https://github.com/Enmanuellperez98/player_js#readme"
+}
